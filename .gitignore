@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# HH project ignoring dataframes
+/PROJECT-1. Анализ резюме из HH/data/*
+
