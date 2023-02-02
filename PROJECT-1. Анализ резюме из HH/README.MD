@@ -9,6 +9,9 @@
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
+Ссылка на исходный data frame
+https://drive.google.com/file/d/1w0nv1YrGC_9Mqui7eIfL24axvJo6LBYA/view?usp=share_link
+
 :arrow_up:[к оглавлению](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Оглавление)
 
 
@@ -37,6 +40,8 @@
 
 **Что практикуем**     
 работу с данными и оформление отчетов с помощью средств python 
+
+
 
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/AlexSkripko/sf_data_science/blob/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/Project-1.%20HH%20analysis.ipynb)
