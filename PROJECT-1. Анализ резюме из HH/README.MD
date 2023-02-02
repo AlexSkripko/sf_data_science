@@ -1,15 +1,15 @@
 # Анализ базы данных резюме c Head Hunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.md#Какой-кейс-решаем)  
-[3. Результаты](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.md#Результаты)    
+[1. Описание проекта](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Какой-кейс-решаем)  
+[3. Результаты](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Результаты)    
 
 
 ### Описание проекта    
 Провести обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru.
 
-:arrow_up:[к оглавлению](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -20,7 +20,7 @@
 
 **Условия соревнования:**  
 - Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.
-- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.md#Требования-к-оформлению-ноутбука).
+- Ноутбук необходимо оформить на основе предоставленного шаблона и [требований](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Требования-к-оформлению-ноутбука).
 - Отправить свой код ментору для code-ревью. 
 
 **Требования к оформлению ноутбука**     
@@ -41,4 +41,4 @@
 ### Результаты:  
 [Ноутбук с выполненными заданиями и выводами](https://github.com/AlexSkripko/sf_data_science/blob/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/Project-1.%20HH%20analysis.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/AlexSkripko/sf_data_science/tree/main/PROJECT-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HH/README.MD#Оглавление)
