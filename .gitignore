@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # HH project ignoring dataframes
-/PROJECT-1. Анализ резюме из HH/data/*
+/PROJECT-1. Анализ резюме из HH/data/PROJECT-1. Анализ резюме из HH\data\dst-3.0_16_1_hh_database.csv
 
 SkillFactory practice/PYTHON-10. Введение в Pandas/practice.ipynb
 SkillFactory practice/PYTHON-10. Введение в Pandas/theory.ipynb
@@ -150,3 +150,6 @@ SkillFactory practice/PYTHON-12. Продвинутые методы работ�
 SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings1.csv
 SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings2.csv
 SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ufo.txt
+
+.vscode/
+PROJECT-1. Анализ резюме из HH/data/dst-3.0_16_1_hh_database.csv
