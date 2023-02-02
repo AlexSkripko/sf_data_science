@@ -131,3 +131,22 @@ dmypy.json
 # HH project ignoring dataframes
 /PROJECT-1. Анализ резюме из HH/data/*
 
+SkillFactory practice/PYTHON-10. Введение в Pandas/practice.ipynb
+SkillFactory practice/PYTHON-10. Введение в Pandas/theory.ipynb
+SkillFactory practice/PYTHON-10. Введение в Pandas/data/countries.csv
+SkillFactory practice/PYTHON-10. Введение в Pandas/data/melb_data.csv
+SkillFactory practice/PYTHON-10. Введение в Pandas/data/students_performance.csv
+SkillFactory practice/PYTHON-10. Введение в Pandas/data/x.csv
+SkillFactory practice/PYTHON-11. Базовые приёмы работы с данными в Pandas/practice.ipynb
+SkillFactory practice/PYTHON-11. Базовые приёмы работы с данными в Pandas/theory.ipynb
+SkillFactory practice/PYTHON-11. Базовые приёмы работы с данными в Pandas/data/melb_data.csv
+SkillFactory practice/PYTHON-11. Базовые приёмы работы с данными в Pandas/data/ufo.txt
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/practice.ipynb
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/theory.ipynb
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/dates.csv
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/melb_data_fe.csv
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/melb_data.csv
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/movies.csv
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings1.csv
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ratings2.csv
+SkillFactory practice/PYTHON-12. Продвинутые методы работы с данными в Pandas/data/ufo.txt

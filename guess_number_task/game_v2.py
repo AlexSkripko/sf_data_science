@@ -26,7 +26,7 @@ def random_predict(number: int = 50) -> int:
         if predict_number > number:
             last_number = predict_number # переопределяем конец рассматриваемого множества
         else:
-            start_number = predict_number # переопределяем начало конец рассматриваемого множества
+            start_number = predict_number # переопределяем начало рассматриваемого множества
    
     return count
 
